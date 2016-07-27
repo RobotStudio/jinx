@@ -1,4 +1,4 @@
-# jinx
+# Jinx
 The Jinx Robot
 
 This is the software side of the Jinx robot.
